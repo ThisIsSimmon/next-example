@@ -1,8 +1,6 @@
 import "server-only";
 import "./globals.css";
 
-export const revalidate = 0;
-
 export default function RootLayout({ children }: { children: React.ReactNode }) {
     return (
         <html lang="en">
