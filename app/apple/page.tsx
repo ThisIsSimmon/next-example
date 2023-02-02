@@ -1,9 +1,9 @@
 import Link from "next/link";
 
-export default function Home() {
+export default function Kiwi() {
     return (
         <>
-            <Link href="/apple">🍎Apple</Link>
+            <p>→🍎Apple</p>
             <Link href="/banana">🍌Banana</Link>
             <Link href="/kiwi">🥝Kiwi</Link>
         </>
