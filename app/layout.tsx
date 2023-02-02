@@ -1,6 +1,5 @@
 import "server-only";
 import "./globals.css";
-import { Noto_Sans_JP } from "@next/font/google";
 
 export const revalidate = 0;
 
